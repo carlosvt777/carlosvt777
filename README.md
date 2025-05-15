@@ -28,13 +28,13 @@
 </div>
 
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=zflz2l109x3a9xgk33tz47upj&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" width="400" />
-</p>
-
 ## 🔁 Minhas últimas faixas tocadas
 
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=zflz2l109x3a9xgk33tz47upj&count=3&width=600" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvt777&hide=html&layout=compact&theme=default" />
 </p>
 
