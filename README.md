@@ -27,6 +27,38 @@
 
 </div>
 
+## 🚀 Meus Projetos
+
+<div align="center">
+
+### 🎯 Projeto 1 – Tradutor em Java
+Aplicação Java usando a Microsoft Translator Text API para traduzir frases dinamicamente com conexão à API REST.
+<br>
+<a href="https://github.com/carlosvt777/Tradutor_Projeto" target="_blank">
+  <img src="https://img.shields.io/badge/Ver%20mais-gray?style=for-the-badge&logo=github" alt="Ver mais Projeto 1"/>
+</a>
+
+---
+
+### 🧑‍💻 Projeto 2 – Profissionais Liberais
+Sistema Full Stack para cadastro e exibição de profissionais autônomos com integração entre Node.js, Redis e HTML/CSS.
+<br>
+<a href="https://github.com/GuilhermeNobrega/ProfissionaisLiberais" target="_blank">
+  <img src="https://img.shields.io/badge/Ver%20mais-gray?style=for-the-badge&logo=github" alt="Ver mais Projeto 2"/>
+</a>
+
+---
+
+### 📺 Projeto 3 – Screenmatch API
+Aplicação Java que consome uma API pública de séries e organiza os dados em estrutura orientada a objetos.
+<br>
+<a href="https://github.com/carlosvt777/screenmatch-sem-web" target="_blank">
+  <img src="https://img.shields.io/badge/Ver%20mais-gray?style=for-the-badge&logo=github" alt="Ver mais Projeto 3"/>
+</a>
+
+</div>
+
+
 
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=zflz2l109x3a9xgk33tz47upj&count=3&width=600" />
