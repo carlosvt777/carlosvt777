@@ -1,10 +1,5 @@
-<h1 align="center">Carlos Vítor Alves da Silva</h1>
-<p align="center">🚀 Desenvolvedor apaixonado por tecnologia, APIs e soluções criativas.</p>
-
----
 
 ## 🧠 Tecnologias
-
 <div align="center">
 
 <!-- Linguagens de programação -->
@@ -32,9 +27,9 @@
 
 </div>
 
----
+
+## 🎧 O que estou ouvindo no Spotify
 
 <p align="center">
-  📫 Me encontre em: <a href="https://www.linkedin.com/in/carlos-vitor-alves-da-silva/">LinkedIn</a> |
-  <a href="mailto:carlosvitorbra03@hotmail.com">Email</a>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=zflz2l109x3a9xgk33tz47upj&count=1" width="350" />
 </p>
