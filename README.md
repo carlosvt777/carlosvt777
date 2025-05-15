@@ -28,8 +28,6 @@
 </div>
 
 
-## 🎧 O que estou ouvindo no Spotify
-
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=zflz2l109x3a9xgk33tz47upj&count=1" width="350" />
+  <img src="https://spotify-now-playing-carlosvt777.vercel.app/api/now-playing" alt="Spotify Now Playing" width="400" />
 </p>
