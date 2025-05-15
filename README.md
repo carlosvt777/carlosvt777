@@ -28,8 +28,6 @@
 </div>
 
 
-## 🔁 Minhas últimas faixas tocadas
-
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=zflz2l109x3a9xgk33tz47upj&count=3&width=600" />
 </p>
