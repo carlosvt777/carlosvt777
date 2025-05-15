@@ -1,5 +1,21 @@
+<h1 align="center">Carlos Vítor Alves da Silva ☕</h1>
 
-## 🧠 Tecnologias
+<p align="center">
+  Desenvolvedor em formação, explorando APIs, arquitetura e orientações a objetos com foco em resultado.
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" />
+</p>
+
+## Você vai me encontrar aqui
+
+- 📧 Email: carlosvitorbra03@hotmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/carlos-vitor-alves-da-silva/)  
+- 🌐 [Portfólio Online](https://meu-portifolio-i1b6.vercel.app/)
+
+
+## 🧠  Stacks que manuseio como se fosse feitiçaria:
 <div align="center">
 
 <!-- Linguagens de programação -->
@@ -59,12 +75,19 @@ Aplicação Java que consome uma API pública de séries e organiza os dados em 
 </div>
 
 
-
+### Últimas músicas escutadas.
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=zflz2l109x3a9xgk33tz47upj&count=3&width=600" />
 </p>
 
+
+### Linguagens mais usadas
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosvt777&hide=html&layout=compact&theme=default" />
 </p>
+
+
+
+
+
 
