@@ -56,13 +56,12 @@ Aplicação Java usando a Microsoft Translator Text API para traduzir frases din
 
 ---
 
-### 🧑‍💻 Projeto 2 – Profissionais Liberais
-Sistema Full Stack para cadastro e exibição de profissionais autônomos com integração entre Node.js, Redis e HTML/CSS.
-<br>
-<a href="https://github.com/GuilhermeNobrega/ProfissionaisLiberais" target="_blank">
-  <img src="https://img.shields.io/badge/Ver%20mais-gray?style=for-the-badge&logo=github" alt="Ver mais Projeto 2"/>
-</a>
-
+### 🧑‍💻 Projeto 2 – Profissionais Liberais  
+Sistema Full Stack para cadastro e exibição de profissionais autônomos com integração entre Node.js, Redis e HTML/CSS.  
+<br>  
+<a href="https://github.com/carlosvt777/Profissionais_Liberais" target="_blank">  
+  <img src="https://img.shields.io/badge/Ver%20mais-gray?style=for-the-badge&logo=github" alt="Ver mais Projeto 2"/>  
+</a>  
 ---
 
 ### 📺 Projeto 3 – Screenmatch API
