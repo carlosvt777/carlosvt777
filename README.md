@@ -72,6 +72,15 @@ Aplicação Java que consome uma API pública de séries e organiza os dados em 
   <img src="https://img.shields.io/badge/Ver%20mais-gray?style=for-the-badge&logo=github" alt="Ver mais Projeto 3"/>
 </a>
 
+### 📦 Teste Técnico – API Pedido Embalagem
+Microserviço RESTful em ASP.NET Core 8.0 para controle de pedidos e embalagens, com autenticação JWT, migrations com Entity Framework, orquestração via Docker Compose e documentação Swagger.
+<br>
+<a href="https://github.com/carlosvt777/api-pedido-embalagem" target="_blank">
+  <img src="https://img.shields.io/badge/Ver%20mais-gray?style=for-the-badge&logo=github" alt="Ver mais Teste Técnico"/>
+</a>
+
+
+
 </div>
 
 
